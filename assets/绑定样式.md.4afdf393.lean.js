@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.71fc771a.js";const A=JSON.parse('{"title":"绑定样式","description":"","frontmatter":{},"headers":[],"relativePath":"绑定样式.md","filePath":"绑定样式.md"}'),p={name:"绑定样式.md"},o=l("",9),e=[o];function t(c,r,D,F,y,i){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

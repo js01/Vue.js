@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,O as l}from"./chunks/framework.71fc771a.js";const m=JSON.parse('{"title":"主要文件","description":"","frontmatter":{},"headers":[],"relativePath":"主要文件.md","filePath":"主要文件.md"}'),o={name:"主要文件.md"},p=l("",8),t=[p];function e(c,r,D,F,i,y){return a(),n("div",null,t)}const A=s(o,[["render",e]]);export{m as __pageData,A as default};
