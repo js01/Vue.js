@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,O as l}from"./chunks/framework.71fc771a.js";const d=JSON.parse('{"title":"列表渲染","description":"","frontmatter":{},"headers":[],"relativePath":"列表渲染.md","filePath":"列表渲染.md"}'),p={name:"列表渲染.md"},o=l("",9),t=[o];function e(c,r,F,D,y,i){return a(),n("div",null,t)}const _=s(p,[["render",e]]);export{d as __pageData,_ as default};

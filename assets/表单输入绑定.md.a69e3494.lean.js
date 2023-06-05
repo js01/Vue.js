@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,O as l}from"./chunks/framework.71fc771a.js";const i=JSON.parse('{"title":"表单输入绑定","description":"","frontmatter":{},"headers":[],"relativePath":"表单输入绑定.md","filePath":"表单输入绑定.md"}'),p={name:"表单输入绑定.md"},o=l("",19),t=[o];function e(c,D,r,F,y,C){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{i as __pageData,u as default};
